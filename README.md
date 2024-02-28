@@ -1,5 +1,5 @@
 # A short Bio of myself 
-Goitseone montsho loves rainbows and glitter.
+Goitseone Montsho loves rainbows and glitter.
 
 ## My favorite dish recipe -pommes
 -peel potatoes\
